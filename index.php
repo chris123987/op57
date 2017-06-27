@@ -1,3 +1,3 @@
 <?php
 
-echo "hello word";
+echo "this is test pages of git!";
